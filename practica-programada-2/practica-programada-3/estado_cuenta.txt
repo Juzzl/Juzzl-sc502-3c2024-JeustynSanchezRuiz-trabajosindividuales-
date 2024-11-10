@@ -1,0 +1,18 @@
+Estado de Cuenta
+
+Transacciones:
+Descripción: Compra en Supermercado - Monto: 1500
+Descripción: Pago de servicios - Monto: 15000
+Descripción: Gasolina - Monto: 7000
+Descripción: Compra en linea - Monto: 25000
+Descripción: Compra en Supermercado - Monto: 3500
+Descripción: Compra en Supermercado - Monto: 8500
+Descripción: Pago de servicios - Monto: 13000
+Descripción: Gasolina - Monto: 5000
+Descripción: Compra en Linea - Monto: 14500
+Descripción: Gasolina - Monto: 6000
+
+Monto total de contado: 99000
+Monto total con interés del 2.6%: 101,574.00
+Cash Back aplicado (0.1%): 99.00
+Monto final a pagar: 101,475.00
